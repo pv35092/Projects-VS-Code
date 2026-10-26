@@ -28,6 +28,8 @@ int main()
     }
     
     printf("Boas David\n");
+    printf("ola mareee");
+
 
     return 0;
 }
