@@ -26,11 +26,7 @@ int main()
         }
         printf("\n");
     }
-    
-    printf("Boas David\n");
-    printf("ola mareee!!!");
-
-
+ 
     return 0;
 }
 
